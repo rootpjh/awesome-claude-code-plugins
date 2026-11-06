@@ -5,6 +5,7 @@
 
 Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
 
+- [onemira-mcp](https://github.com/onemira-space/onemira-mcp) - Subscription-free AI voice recorder and MCP server that streams speaker-attributed transcripts, AI summaries, and structured Markdown memory into Claude Code.
 * [What is Claude Code Plugin?](#what-is-claude-code-plugin)
 * [Use Cases](#use-cases)
 * [Plugins](#plugins)
