@@ -5,6 +5,7 @@
 
 **精选 Claude Code 插件列表** —— 收录适用于 Claude Code 的 `Slash Commands`、`Subagents`、`MCP Servers` 和 `Hooks` 任意组合的插件列表。
 
+- [onemira-mcp](https://github.com/onemira-space/onemira-mcp) - 免订阅 AI 语音记录器与 MCP 服务器，可将带说话人识别的实时转录、AI 摘要与结构化 Markdown 记忆接入 Claude Code。
 * [什么是 Claude Code 插件？](#什么是-claude-code-插件)
 * [应用场景](#应用场景)
 * [插件列表](#插件列表)
