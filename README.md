@@ -112,6 +112,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### AI & Speech
 - [speech-ai](https://github.com/fasuizu-br/speech-ai-examples) - Speech AI plugin with pronunciation assessment, text-to-speech, and speech-to-text. 8 MCP tools for language learning, accessibility, and voice applications.
+- [onemira-mcp](https://github.com/onemira-space/onemira-mcp) — Local MCP server for the [OneMira C1 AI Voice Recorder](https://onemira.com/products/c1) and OneMira Desktop (`io.github.onemira-space/onemira-mcp`): search transcripts, 99-language Speaker ID, and Google Native OKF Markdown wikis in Claude Code (`$0/mo`).
 
 ### Automation DevOps
 - [PUIUX Pilot](https://github.com/PUIUX-Cloud/puiux-pilot) - Auto-configures Claude Code hooks, MCPs, and skills for any project. Scans 95+ project types, selects from 28+ hooks, scores quality (0-100, A-F). `npm i -g puiux-pilot`
